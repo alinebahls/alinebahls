@@ -1,4 +1,4 @@
-# Hi! Welcome to my profile!
+## Hi! Welcome to my profile!
 
 [!(https://www.linkedin.com/in/alinebahls/)]
 
