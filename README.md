@@ -2,7 +2,7 @@
  <div>
   I'm Aline. I'm a lawyer learning code.
   <br>
-  I'm currently learning Front-End. 
+  I'm currently learning Front-End development.
   <br>
   <img align="center" alt="aline-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="aline-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
