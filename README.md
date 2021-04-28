@@ -1,14 +1,15 @@
 ## Hi! Welcome to my profile! 
-  <div>
+ <div>
   I'm Aline. I love to learn code.
-  </div>
-  <p>
-  <p>   
-  <p>
-
-  <div>
+  <br>
   <a href = "mailto: alinebahlsdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alinebahls/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
+  <br>
+  <br>   
+  <br>
+ </div>
+ <div>
   <img align="right" alt="aline-hi" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif">
 </div>
 
