@@ -1,6 +1,6 @@
 ## Hi! Welcome to my profile! 
  <div>
-  I'm Aline. I'm a lawyer learning code.
+  I'm Aline. I'm a digital law enthusiast learning code.
   <br>
   I'm currently learning Front-End development.
   <br>
